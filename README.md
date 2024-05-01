@@ -2,15 +2,17 @@
 <h1> :sparkles: I am Julia Popova. :sparkles: </h1>
 <h3> Frontend developer from Minsk.</h3>
 <h3> :e-mail: Contacts: </h3>
-<a href="https://www.linkedin.com/in/julia-popova-developer/" rel="nofollow" target="_blank">
+<a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
     <img src="https://camo.githubusercontent.com/caa2a0724bc451a043114a0dcdeae08c5b8032d66be401e4287d366602b41f2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;">
-  </a>   <a href="mailto:j.popova.dev@gmail.com">
+  </a>
+    <a href="mailto:j.popova.dev@gmail.com">
    <img src="https://camo.githubusercontent.com/e682ed4e2b605f0ff9af631e4fb72c7076af82d7f2be5ba06c4d0ec1c1f88807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Mail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;">
-   </a> <a href="https://t.me/veluat" rel="nofollow">
+   </a>
+    <a href="https://t.me/veluat" target="_blank">
   <img src="https://camo.githubusercontent.com/2cbe34ae67c5c99f2cc49e88f54162f79e39e1a0289dd160a05b587e43fae161/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;">
 </a>  
 <br/>
-<h3> You can download my resume for review in English or Russian at <a href="https://veluat.github.io/portfolio" rel="nofollow">my portfolio</a></h3>
+<h3> You can download my resume for review in English or Russian at <a href="https://veluat.github.io/portfolio" target="_blank">my portfolio</a></h3>
 <hr>
 <h3> :round_pushpin: Tech Stack</h3>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
@@ -54,7 +56,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <br/>
 <hr>
-<a href="https://www.codewars.com/users/veluat">
+<a href="https://www.codewars.com/users/veluat" target="_blank">
   <img src="https://www.codewars.com/users/veluat/badges/large" alt="Codewars Badge">
 </a>
 </div>
