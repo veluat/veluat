@@ -61,12 +61,14 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <br/>
 <hr>
-<a href="https://www.codewars.com/users/veluat" target="_blank">
-  <img src="https://www.codewars.com/users/veluat/badges/large" alt="Codewars Badge">
-</a>
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=veluat" alt="views">
- -->
+<div align="end">
+<a href="https://www.codewars.com/users/veluat" target="_blank">
+  <img src="https://www.codewars.com/users/veluat/badges/micro" alt="Codewars Badge">
+</a>
+<img src="https://komarev.com/ghpvc/?username=veluat" alt="views">
+</div>
+
 
 
  
