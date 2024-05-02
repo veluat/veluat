@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI Badge">
 <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design Badge">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
+<!-- <img src="" alt="Lodash"> -->
 
 <br/>
 <h3> :round_pushpin: Tools</h3>
@@ -64,6 +65,8 @@
   <img src="https://www.codewars.com/users/veluat/badges/large" alt="Codewars Badge">
 </a>
 </div>
+<!-- <img src="https://komarev.com/ghpvc/?username=veluat" alt="views">
+ -->
 
 
  
