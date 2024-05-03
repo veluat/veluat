@@ -1,23 +1,21 @@
 <div align="center">
-<h1> :sparkles: I am Julia Popova. :sparkles: </h1>
-<h3> Frontend developer from Minsk.</h3>
-<h3> :e-mail: Contacts: </h3>
+<h1> :sparkles: Greetings! :sparkles: </h1>
+<h2> I am Julia Popova. <br/><br/>
+    Frontend developer from Minsk.</h2>
+    <hr/>
+     <h3 style="vertical-align: middle;"> :round_pushpin: You can download my resume for review in English or Russian at <a href="https://veluat.github.io/portfolio" target="_blank">my portfolio</a></h3>
+<h3> :round_pushpin: Contacts: </h3>
 <a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
-    <img src="https://camo.githubusercontent.com/caa2a0724bc451a043114a0dcdeae08c5b8032d66be401e4287d366602b41f2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white"  alt="Linkedin Badge" style="max-width: 100%;">
   </a>
     <a href="mailto:j.popova.dev@gmail.com">
-   <img src="https://camo.githubusercontent.com/e682ed4e2b605f0ff9af631e4fb72c7076af82d7f2be5ba06c4d0ec1c1f88807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4541343333352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Mail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;">
+   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="Mail Badge" style="max-width: 100%;">
    </a>
     <a href="https://t.me/veluat" target="_blank">
-  <img src="https://camo.githubusercontent.com/2cbe34ae67c5c99f2cc49e88f54162f79e39e1a0289dd160a05b587e43fae161/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3236413545342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram Badge" data-canonical-src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" style="max-width: 100%;">
 </a>  
-<br/>
-<h3 style="vertical-align: middle;"> You can download my resume for review in English or Russian at </h3>
-    <a href="https://veluat.github.io/portfolio" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio" style="vertical-align: middle;">
-    </a>
-<hr>
-<h3> :round_pushpin: Tech Stack</h3>
+    <details>
+  <summary><h3> :round_pushpin: Skills</h3></summary>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge">
@@ -40,10 +38,6 @@
 <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI Badge">
 <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design Badge">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
-<!-- <img src="" alt="Lodash"> -->
-
-<br/>
-<h3> :round_pushpin: Tools</h3>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge">
 <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebStorm">
@@ -59,15 +53,20 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<br/>
-<hr>
-</div>
-<div align="end">
+    </details>
+<hr/>
+    <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veluat" alt="GitHub Streak">
+</a> <br/>
+    <a href="https://github.com/veluat/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact" alt="Top Languages">
+</a>
+    <br/>
 <a href="https://www.codewars.com/users/veluat" target="_blank">
   <img src="https://www.codewars.com/users/veluat/badges/micro" alt="Codewars Badge">
 </a>
-<img src="https://komarev.com/ghpvc/?username=veluat" alt="views">
-</div>
+    <img src="https://komarev.com/ghpvc/?username=veluat" alt="views"></div>
+
 
 
 
