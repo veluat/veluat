@@ -1,8 +1,6 @@
 <div align="center">
 <h1> :sparkles: Greetings! :sparkles: </h1>
-<h2> I am Julia Popova. <br/><br/>
-    Frontend developer from Minsk.</h2>
-    <hr/>
+<h2> I am Julia Popova. Frontend developer from Minsk.</h2>
      <h3 style="vertical-align: middle;"> :round_pushpin: You can download my resume for review in English or Russian at <a href="https://veluat.github.io/portfolio" target="_blank">my portfolio</a></h3>
 <h3> :round_pushpin: Contacts: </h3>
 <a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
@@ -14,6 +12,7 @@
     <a href="https://t.me/veluat" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" style="max-width: 100%;">
 </a>  
+    <hr/>
     <details>
   <summary><h3> :round_pushpin: Skills</h3></summary>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
@@ -54,7 +53,7 @@
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </details>
-<hr/>
+            <hr/>
     <h3> :round_pushpin: GitHub Stats </h3>
     <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veluat" alt="GitHub Streak">
