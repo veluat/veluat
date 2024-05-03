@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </details>
 <hr/>
+    <h3> :round_pushpin: GitHub Stats </h3>
     <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=veluat" alt="GitHub Streak">
 </a> <br/>
