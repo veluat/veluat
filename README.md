@@ -1,6 +1,7 @@
 <div align="center">
 <h1> :sparkles: Greetings! :sparkles: </h1>
 <h2> I am Julia Popova. Frontend developer from Minsk.</h2>
+     <img src="https://github.com/veluat/veluat/blob/main/gif.gif?raw=true" alt="gif"/>
      <h3 style="vertical-align: middle;"> :round_pushpin: You can download my resume for review in English or Russian at <a href="https://veluat.github.io/portfolio" target="_blank">my portfolio</a></h3>
 <h3> :round_pushpin: Contacts: </h3>
 <a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
