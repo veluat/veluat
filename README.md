@@ -82,7 +82,7 @@
     </details>
 <hr/>
     <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=blood&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a> <br/>
     <a href="https://github.com/veluat/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact" alt="Top Languages">
