@@ -89,7 +89,7 @@
     <a href="https://github.com/veluat/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&hide_progress=true" alt="Top Languages">
 </a>
-        <img src="https://github.com/veluat/veluat/blob/main/gif.gif?raw=true" alt="Linq">
+        <img src="https://github.com/veluat/veluat/blob/main/gif.gif?raw=true" alt="gif" width="140">
     </div>
     <br/>
 <a href="https://www.codewars.com/users/veluat" target="_blank">
