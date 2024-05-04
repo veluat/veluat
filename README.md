@@ -1,7 +1,6 @@
 <div align="center">
 <h1> :sparkles: 𝔊𝔯𝔢𝔢𝔱𝔦𝔫𝔤𝔰! :sparkles: </h1> 
-      <h2>I am Julia Popova.<br/><br/>Frontend developer from Minsk.</h2>
-      <img src="https://github.com/veluat/veluat/blob/main/Animation%20-%201714831236848.gif?raw=true" alt="gif" width="300" />
+      <h2>I am Julia Popova. Frontend developer from Minsk.</h2>
 <table align="center">
      <tbody>
          <tr>
