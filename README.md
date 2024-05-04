@@ -1,7 +1,8 @@
 <div align="center">
-<h1> :sparkles: 𝔊𝔯𝔢𝔢𝔱𝔦𝔫𝔤𝔰! :sparkles: </h1>
-<h2 style="vertical-align: middle;"> I am Julia Popova. Frontend developer from Minsk.</h2>
-    <table align="center">
+<h1> :sparkles: 𝔊𝔯𝔢𝔢𝔱𝔦𝔫𝔤𝔰! :sparkles: </h1> 
+      <h2>I am Julia Popova.<br/><br/>Frontend developer from Minsk.</h2>
+      <img src="https://github.com/veluat/veluat/blob/main/Animation%20-%201714831236848.gif?raw=true" alt="gif" width="300" />
+<table align="center">
      <tbody>
          <tr>
      <td align="center" width="90">
@@ -37,7 +38,6 @@
     <a href="https://t.me/veluat" target="_blank">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram Badge" style="max-width: 100%;">
 </a>  
-    <hr/>
     <details>
   <summary><h3> :round_pushpin: Skills</h3></summary>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
@@ -81,13 +81,12 @@
 <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
 <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
     </details>
-<hr/>
     <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a> <br/>
     <div>
     <a href="https://github.com/veluat/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact&theme=swift" alt="Top Languages">
 </a>
         <img src="https://github.com/veluat/veluat/blob/main/gif-gif-gif.gif?raw=true" alt="gif" width="180">
     </div>
