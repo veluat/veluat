@@ -85,9 +85,12 @@
     <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a> <br/>
+    <div>
     <a href="https://github.com/veluat/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&hide_progress=true" alt="Top Languages">
 </a>
+        <img src="https://github.com/veluat/veluat/blob/main/gif.gif?raw=true" alt="Linq">
+    </div>
     <br/>
 <a href="https://www.codewars.com/users/veluat" target="_blank">
   <img src="https://www.codewars.com/users/veluat/badges/micro" alt="Codewars Badge">
