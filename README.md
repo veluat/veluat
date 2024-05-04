@@ -5,7 +5,8 @@
      <tbody>
          <tr>
      <td align="center" width="90">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"></a>
       <br>JavaScript
     </td>    
     <td align="center" width="90">
@@ -82,7 +83,7 @@
     </details>
 <hr/>
     <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=blood&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a> <br/>
     <a href="https://github.com/veluat/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact" alt="Top Languages">
