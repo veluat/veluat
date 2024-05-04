@@ -29,13 +29,13 @@
      <h3 style="vertical-align: middle;"> :round_pushpin: You can download my resume for review in English or Russian at <a href="https://veluat.github.io/portfolio" target="_blank">my portfolio</a></h3>
 <h3> :round_pushpin: Contacts: </h3>
 <a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white"  alt="Linkedin Badge" style="max-width: 100%;">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg"  alt="Linkedin Badge" style="max-width: 100%;">
   </a>
     <a href="mailto:j.popova.dev@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="Mail Badge" style="max-width: 100%;">
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gmail.svg" alt="Mail Badge" style="max-width: 100%;">
    </a>
     <a href="https://t.me/veluat" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&amp;logo=Telegram&amp;logoColor=white" alt="Telegram Badge" style="max-width: 100%;">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Telegram Badge" style="max-width: 100%;">
 </a>  
     <hr/>
     <details>
