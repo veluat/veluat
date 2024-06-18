@@ -1,7 +1,8 @@
 <div align="center">
-<h1> :sparkles: Greetings! :sparkles: </h1> 
-      <h3>I am Julia Popova.
-            <br/>Frontend developer from Minsk.</h3>
+<h1>:sparkles: Coding makes me happy :sparkles:</h1> 
+      <h3>Greetings! 👋 I am Julia Popova.<br/>
+            <br/>Frontend developer from Minsk, Belarus.</h2>
+
 <table align="center">
      <tbody>
          <tr>
@@ -96,7 +97,8 @@
 <a href="https://www.codewars.com/users/veluat" target="_blank">
   <img src="https://www.codewars.com/users/veluat/badges/micro" alt="Codewars Badge">
 </a>
-    <img src="https://komarev.com/ghpvc/?username=veluat" alt="views"></div>
+    <img src="https://komarev.com/ghpvc/?username=veluat" alt="views">
+    </div>
 
 
 
