@@ -28,7 +28,7 @@
          </tr>
      </tbody>
     </table>
-     <h3 style="vertical-align: middle;"> :round_pushpin: You can download my resume for review in English or Russian at <a href="https://veluat.github.io/portfolio" target="_blank">my portfolio</a></h3>
+     <h3 style="vertical-align: middle;"> :round_pushpin: Check out some of my projects and download my resume in English or Russian at <a href="https://veluat.github.io/portfolio" target="_blank">my portfolio</a></h3>
 <h3> :round_pushpin: Contacts: </h3>
 <a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin Badge" style="max-width: 100%;">
