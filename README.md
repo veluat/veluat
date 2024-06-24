@@ -91,7 +91,7 @@
     <a href="https://github.com/veluat/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact&theme=swift" alt="Top Languages">
 </a>
-        <img src="https://github.com/veluat/veluat/blob/main/gif-gif-gif.gif?raw=true" alt="gif" width="180">
+          <a href="#"><img src="https://imgur.com/7UKzF9L" alt="My GIF" style="width="180px";"></a>
     </div>
     <br/>
 <a href="https://www.codewars.com/users/veluat" target="_blank">
