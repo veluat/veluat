@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="https://github.com/veluat/veluat/blob/main/front-top.png" alt="img top"/>
+      <img src="https://github.com/veluat/veluat/blob/main/Frontend.jpg" alt="img top" width="500"/>
 <h1>:sparkles: Greetings! :sparkles:</h1> 
 <h3>I am Julia Popova.<br/>Frontend developer from Minsk, Belarus.</h3>
 
