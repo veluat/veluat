@@ -1,6 +1,6 @@
 <div align="center">
       <img src="https://github.com/veluat/veluat/blob/main/Frontend.png" alt="img top" width="500"/>
-<h1>:sparkles: Greetings! :sparkles:</h1>
+<h1>Greetings! 👋</h1>
       <h3>I am Julia Popova.<br/>Frontend developer from Minsk, Belarus.</h3>
 <a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width: 100%;">
@@ -33,9 +33,9 @@
                   </table>
             </td>
             <td>
-                  <p>‍💻<b>Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.</b></p>
-                  <p>📚 <b>I'm learning something new every day.</b></p>
-                  <p>🤝 <b>Open to New Projects and Collaboration. Let's create something amazing together!</b></p>
+                  <h4>‍💻 Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.</h4>
+                  <h4>📚 I'm learning something new every day.</h4>
+                  <h4>🤝 Open to New Projects and Collaboration. Let's create something amazing together!</h4>
             </td>
             <td>
                   <table align="center">
@@ -65,8 +65,8 @@
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" alt="React Query Badge">
       <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge">
-      <img src="https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Badge">
       <img src="https://img.shields.io/badge/Redux%20saga-%23593d88?style=for-the-badge&logo=redux%20saga&logoColor=white" alt="Redux Saga Badge">
+      <img src="https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Badge">
       <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form Badge">
       <img src="https://img.shields.io/badge/Formik/Yup-black?style=for-the-badge&amp;logo=formik&amp;logoColor=white" alt="Formik Badge">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
