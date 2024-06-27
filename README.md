@@ -2,61 +2,49 @@
       <img src="https://github.com/veluat/veluat/blob/main/Frontend.png" alt="img top" width="500"/>
 <h1>Greetings! 👋</h1>
       <h3>I am Julia Popova.<br/>Frontend developer from Minsk, Belarus.</h3>
-<a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width: 100%;">
-</a>
-<a href="mailto:j.popova.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-f05237?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" style="max-width: 100%;">
-</a>
-<a href="https://t.me/veluat" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="max-width: 100%;">
-</a>
+<table align="center">
+      <tbody>
+            <tr>
+                  <td align="center" width="90">
+                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg">
+                              <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
+                        </a><br/><b>JavaScript</b>
+                  </td>
+                  <td align="center" width="90">
+                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667">
+                              <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;">
+                        </a><br/><b>React</b>
+                  </td>
+                  <td align="center" width="90">
+                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667">
+                              <img src="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/redux-icon.svg" style="max-width: 100%;">
+                        </a><br/><b>Redux</b>
+                  </td>
+                  <td align="center" width="90">
+                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667">
+                              <img src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
+                        </a><br/><b>TypeScript</b>
+                  </td>
+            </tr>
+      </tbody>
+</table>
 </div>
 <br/>
-<table>
-      <tr>
-            <td>
-                  <table align="center">
-                        <tbody>
-                              <tr>
-                                    <td align="center" width="90">
-                                          <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg">
-                                                <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"> 
-                                          </a><br/><b>JavaScript</b>
-                                    </td>
-                                    <td align="center" width="90"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667"> 
-                                          <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;"> 
-                                    </a><br/><b>React</b>
-                                    </td>
-                              </tr>
-                        </tbody>
-                  </table>
-            </td>
-            <td>
-                  <h4>‍💻 Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.</h4>
-                  <h4>📚 I'm learning something new every day.</h4>
-                  <h4>🤝 Open to New Projects and Collaboration. Let's create something amazing together!</h4>
-            </td>
-            <td>
-                  <table align="center">
-                        <tbody>
-                              <tr>
-                                    <td align="center" width="90">
-                                          <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667"> 
-                                                <img src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;"> 
-                                          </a><br/><b>TypeScript</b></td>
-                                    <td align="center" width="90"> 
-                                          <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667"> 
-                                                <img src="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/redux-icon.svg" style="max-width: 100%;"> 
-                                          </a><br/><b>Redux</b>
-                                    </td> 
-                              </tr> 
-                        </tbody> 
-                  </table> 
-            </td> 
-      </tr> 
-</table>
+<h3>‍💻 Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.</h3>
+<h3>📚 I'm learning something new every day.</h3>
+<h3>🤝 Open to New Projects and Collaboration. Let's create something amazing together!</h3>
 <h3>💼 Check out some of my projects and download my resume in English or Russian at <a href="https://veluat.github.io/portfolio-app" target="_blank"><b>my portfolio website</b></a></h3>
+<h3>📫 How to reach me:</h3>
+<a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin Badge" style="max-width: 100%;">
+  </a>
+    <a href="mailto:j.popova.dev@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-f05237?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" style="max-width: 100%;">
+   </a>
+    <a href="https://t.me/veluat" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="max-width: 100%;">
+</a>
+<br/>
 <details>
       <summary><h3>🛠 Tech Stack & Tools:</h3></summary>
       <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
@@ -102,7 +90,6 @@
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
       <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
 </details>
-<div align="center">
       <h3>📊 GitHub Stats:</h3>
 <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
@@ -115,6 +102,7 @@
       <img src="https://github.com/veluat/veluat/blob/main/gif-gif-gif.gif?raw=true" alt="gif" width="180">
 </div>
 <br/>
+<div>
       <a href="https://www.codewars.com/users/veluat" target="_blank">
             <img src="https://www.codewars.com/users/veluat/badges/micro" alt="Codewars Badge">
       </a>
