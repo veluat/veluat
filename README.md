@@ -77,6 +77,8 @@ ___
         <a href="https://veluat.github.io/digital-art-layout/">Digital Art & NFT Marketplace</a>
      </li>
 </ul>
+      </details>
+      
 <details>
       <summary><h3>🛠 Tech Stack & Tools:</h3></summary>
       <div align="center">
