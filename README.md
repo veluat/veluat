@@ -29,11 +29,13 @@
       </tbody>
 </table>
 </div>
-<h3>‍💻 Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.</h3>
-<h3>💼 Check out some of my projects and download my resume in English or Russian at <a href="https://veluat.github.io/portfolio-app" target="_blank"><b>my portfolio website</b></a></h3>
-<h3>📚 I'm learning something new every day.</h3>
-<h3>🤝 Open to New Projects and Collaboration. Let's create something amazing together!</h3>
-<h3>📫 How to reach me:</h3>
+
+* 🌍  I'm based in Minsk.
+* 🖥️  Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.
+* 💼  Check out my resume in English or Russian at <a href="https://veluat.github.io/portfolio-app" target="_blank"><b>my portfolio website</b></a>
+* 📚  I'm learning something new every day.
+* 🤝 Open to New Projects and Collaboration. Let's create something amazing together!
+* 📫 **How to reach me:**
 <a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin Badge" style="max-width: 100%;">
   </a>
@@ -43,11 +45,42 @@
     <a href="https://t.me/veluat" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="max-width: 100%;">
 </a>
-<br/>
+
+___
+### ⚙️ My projects:
+<details>
+<summary><b>React app</b></summary>
+ <ul>
+      <li>
+        <a href="https://dual-counter.netlify.app/">Dual Counter</a>
+     </li>
+       <li>
+        <a href="https://veluat.github.io/task-manager-app/login">Task Manager</a></li>
+      <li>
+        <a href="https://veluat.github.io/social-network-app/#/login">Social Network</a>
+       </li>
+      <li>
+        <a href="https://weather-matter.netlify.app/">Weather Matter</a>
+     </li>
+  </ul>
+</details>
+<details>
+<summary><b>Layouts</b></summary>
+<ul>
+    <li>
+        <a href="https://pizza-ordering-layout.netlify.app/">Интернет-магазин по заказу пиццы</a>
+     </li>
+<li>
+        <a href="https://taxi-services-layout.netlify.app/">Taxi Services</a>
+     </li>
+<li>
+        <a href="https://veluat.github.io/digital-art-layout/">Digital Art & NFT Marketplace</a>
+     </li>
+</ul>
 <details>
       <summary><h3>🛠 Tech Stack & Tools:</h3></summary>
       <div align="center">
-            <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge">
       <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
