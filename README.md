@@ -10,7 +10,7 @@
 * 📚  I'm learning something new every day.
 * 🤝 Open to New Projects and Collaboration. Let's create something amazing together!
 * 📫 **How to reach me:** j.popova.dev@gmail.com
-  
+
 ## 🌐 Socials      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-popova-developer) [![Instagram](https://img.shields.io/badge/Instagram-%23F05237.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamp.veluat) [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/veluat)
 
 <details>
@@ -135,9 +135,3 @@
       </a>
       <img src="https://komarev.com/ghpvc/?username=veluat" alt="views">
 </div>
-
-
-
-
-
- 
