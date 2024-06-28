@@ -30,23 +30,16 @@
 </table>
 </div>
 
-* 🌍  I'm based in Minsk.
-* 🖥️  Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.
+### 💫 About Me:
+* 🌍  I'm based in Minsk, Belarus.
+* 👨‍💻️  Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.
 * 💼  Check out my resume in English or Russian at <a href="https://veluat.github.io/portfolio-app" target="_blank"><b>my portfolio website</b></a>
 * 📚  I'm learning something new every day.
 * 🤝 Open to New Projects and Collaboration. Let's create something amazing together!
-* 📫 **How to reach me:**
-<a href="https://www.linkedin.com/in/julia-popova-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin Badge" style="max-width: 100%;">
-  </a>
-    <a href="mailto:j.popova.dev@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-f05237?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge" style="max-width: 100%;">
-   </a>
-    <a href="https://t.me/veluat" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" style="max-width: 100%;">
-</a>
-
-___
+* 📫 **How to reach me:** j.popova.dev@gmail.com
+* 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-popova-developer) [![Instagram](https://img.shields.io/badge/Instagram-%23F05237.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamp.veluat) [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/veluat)
+<hr/>
 <details>
       <summary><h3>:clipboard: My projects:</h3></summary>
       <ul>:bookmark: <b>React app:</b>
