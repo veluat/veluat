@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="https://github.com/veluat/veluat/blob/main/Frontend.png" alt="img top" width="500"/>
+      <img src="./assets/veluat-created-frontend-img.png" alt="img top" width="500"/>
 <h1>Greetings! 👋</h1>
       <h3>I am Julia Popova.<br/>Frontend developer from Minsk, Belarus.</h3>
 <table align="center">
@@ -47,7 +47,6 @@
 </a>
 
 ___
-
 <details>
       <summary><h3>:clipboard: My projects:</h3></summary>
       <ul>:bookmark: <b>React app:</b>
@@ -76,7 +75,6 @@ ___
             </li>
       </ul>
 </details>
-      
 <details>
       <summary><h3>🛠 Tech Stack & Tools:</h3></summary>
       <div align="center">
@@ -133,7 +131,7 @@ ___
       <a href="https://github.com/veluat/github-readme-stats">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact&theme=swift" alt="Top Languages">
       </a>
-      <img src="https://github.com/veluat/veluat/blob/main/gif-gif-gif.gif?raw=true" alt="gif" width="180">
+      <img src="./assets/veluat-created-gif.gif" alt="gif" width="180">
 </div>
 <br/>
 <div>
