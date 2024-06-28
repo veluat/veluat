@@ -1,47 +1,20 @@
 <div align="center">
       <img src="./assets/veluat-created-frontend-img.png" alt="img top" width="500"/>
-<h1>Greetings! 👋</h1>
-      <h3>I am Julia Popova.<br/>Frontend developer from Minsk, Belarus.</h3>
-<table align="center">
-      <tbody>
-            <tr>
-                  <td align="center" width="90">
-                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg">
-                              <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
-                        </a><br/><b>JavaScript</b>
-                  </td>
-                  <td align="center" width="90">
-                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667">
-                              <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;">
-                        </a><br/><b>React</b>
-                  </td>
-                  <td align="center" width="90">
-                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667">
-                              <img src="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/redux-icon.svg" style="max-width: 100%;">
-                        </a><br/><b>Redux</b>
-                  </td>
-                  <td align="center" width="90">
-                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667">
-                              <img src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
-                        </a><br/><b>TypeScript</b>
-                  </td>
-            </tr>
-      </tbody>
-</table>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=500&color=000000&center=true&multiline=true&repeat=false&random=false&width=435&height=110&lines=Greetings!+%F0%9F%91%8B;I+am+Julia+Popova.;Frontend+Web+Developer." alt="Typing SVG" /></a></h1>
 </div>
 
-### 💫 About Me:
+## 💫 About Me
 * 🌍  I'm based in Minsk, Belarus.
 * 👨‍💻️  Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready to embrace challenges to enhance my software development skills.
 * 💼  Check out my resume in English or Russian at <a href="https://veluat.github.io/portfolio-app" target="_blank"><b>my portfolio website</b></a>
 * 📚  I'm learning something new every day.
 * 🤝 Open to New Projects and Collaboration. Let's create something amazing together!
 * 📫 **How to reach me:** j.popova.dev@gmail.com
-* 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-popova-developer) [![Instagram](https://img.shields.io/badge/Instagram-%23F05237.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamp.veluat) [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/veluat)
-<hr/>
+  
+## 🌐 Socials      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-popova-developer) [![Instagram](https://img.shields.io/badge/Instagram-%23F05237.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamp.veluat) [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/veluat)
+
 <details>
-      <summary><h3>:clipboard: My projects:</h3></summary>
+      <summary><h2>:clipboard: My projects</h2></summary>
       <ul>:bookmark: <b>React app:</b>
             <li>
                   <a href="https://github.com/veluat/dual-counter-app">Dual Counter</a>
@@ -68,8 +41,36 @@
             </li>
       </ul>
 </details>
+
+## :sparkling_heart: My Fav Dev Tools
+<table>
+      <tbody>
+            <tr>
+                  <td align="center" width="90">
+                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg">
+                              <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
+                        </a><br/><b>JavaScript</b>
+                  </td>
+                  <td align="center" width="90">
+                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667">
+                              <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;">
+                        </a><br/><b>React</b>
+                  </td>
+                  <td align="center" width="90">
+                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667">
+                              <img src="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/redux-icon.svg" style="max-width: 100%;">
+                        </a><br/><b>Redux</b>
+                  </td>
+                  <td align="center" width="90">
+                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667">
+                              <img src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
+                        </a><br/><b>TypeScript</b>
+                  </td>
+            </tr>
+      </tbody>
+</table>
 <details>
-      <summary><h3>🛠 Tech Stack & Tools:</h3></summary>
+      <summary><h2>🛠 My Tech Stack & Tools</h2></summary>
       <div align="center">
             <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
@@ -115,7 +116,8 @@
             <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
       </div>
 </details>
-<h3>📊 GitHub Stats:</h3>
+
+## 📊 GitHub Stats
 <a href="https://git.io/streak-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a>
