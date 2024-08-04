@@ -1,6 +1,10 @@
 <div align="center">
       <img src="./assets/veluat-created-frontend-img.png" alt="img top" width="500"/>
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=000000&center=true&multiline=true&repeat=true&random=false&width=435&height=110&lines=Greetings!+%F0%9F%91%8B;I+am+Julia+Popova.;Frontend+Web+Developer." alt="Typing SVG" /></a></h1>
+      <h1>
+            <a href="https://git.io/typing-svg">
+                  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=000000&center=true&multiline=true&repeat=true&random=false&width=435&height=110&lines=Greetings!+%F0%9F%91%8B;I+am+Julia+Popova.;Frontend+Web+Developer." alt="Typing SVG" />
+            </a>
+      </h1>
 </div>
 
 ## 💫 About Me
@@ -15,7 +19,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-popova-developer) [![Instagram](https://img.shields.io/badge/Instagram-%23F05237.svg?logo=Instagram&logoColor=white)](https://instagram.com/vamp.veluat) [![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/veluat)
 
 <details>
-      <summary><h2>:clipboard: My Open Source Projects</h2></summary>
+      <summary>
+            <h2>:clipboard: My Open Source Projects</h2>
+      </summary>
       <ul>:bookmark: <b>React app:</b>
             <li>
                   <a href="https://github.com/veluat/dual-counter-app">Dual Counter</a>
@@ -71,7 +77,9 @@
       </tbody>
 </table>
 <details>
-      <summary><h2>🛠 My Tech Stack & Tools</h2></summary>
+      <summary>
+            <h2>🛠 My Tech Stack & Tools</h2>
+      </summary>
       <div align="center">
             <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
