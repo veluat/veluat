@@ -24,6 +24,9 @@
       </summary>
       <ul>:bookmark: <b>React app:</b>
             <li>
+                  <a href="https://github.com/veluat/weather-matter-app">Weather Matter</a>
+            </li>
+            <li>
                   <a href="https://github.com/veluat/dual-counter-app">Dual Counter</a>
             </li>
             <li>
@@ -31,9 +34,6 @@
             </li>
             <li>
                   <a href="https://github.com/veluat/social-network-app">Social Network</a>
-            </li>
-            <li>
-                  <a href="https://github.com/veluat/weather-matter-app">Weather Matter</a>
             </li>
       </ul>
       <ul>:bookmark: <b>Layouts:</b>
