@@ -24,6 +24,9 @@
       </summary>
       <ul>:bookmark: <b>React app:</b>
             <li>
+                  <a href="https://github.com/veluat/tree-node-app">Иерархический менеджер</a>
+            </li>
+            <li>
                   <a href="https://github.com/veluat/weather-matter-app">Weather Matter</a>
             </li>
             <li>
@@ -38,13 +41,13 @@
       </ul>
       <ul>:bookmark: <b>Layouts:</b>
             <li>
-                  <a href="https://github.com/veluat/pizza-ordering-layout">Интернет-магазин по заказу пиццы</a>
+                  <a href="https://github.com/veluat/digital-art-layout">Digital Art & NFT Marketplace</a>
             </li>
             <li>
                   <a href="https://github.com/veluat/taxi-services-layout">Taxi Services</a>
             </li>
             <li>
-                  <a href="https://github.com/veluat/digital-art-layout">Digital Art & NFT Marketplace</a>
+                  <a href="https://github.com/veluat/pizza-ordering-layout">Интернет-магазин по заказу пиццы</a>
             </li>
       </ul>
 </details>
