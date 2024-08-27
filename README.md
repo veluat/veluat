@@ -42,34 +42,6 @@
             </li>
       </ul>
 </details>
-
-## :sparkling_heart: My Fav Dev Tools
-<table>
-      <tbody>
-            <tr>
-                  <td align="center" width="90">
-                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://techstack-generator.vercel.app/js-icon.svg">
-                              <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
-                        </a><br/><b>JavaScript</b>
-                  </td>
-                  <td align="center" width="90">
-                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667">
-                              <img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/react-icon.svg" style="max-width: 100%;">
-                        </a><br/><b>React</b>
-                  </td>
-                  <td align="center" width="90">
-                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667">
-                              <img src="https://camo.githubusercontent.com/f11e1481e5e3499035c7d93b1c29b4ae58c79a188807c27fefb457ffd3ff8963/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656475782d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/redux-icon.svg" style="max-width: 100%;">
-                        </a><br/><b>Redux</b>
-                  </td>
-                  <td align="center" width="90">
-                        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667">
-                              <img src="https://camo.githubusercontent.com/b8dc7de058b6dca715cef009bc63e74b49f0747d6252cff3da6e7289bf8774d1/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" alt="icon" width="55" height="55" data-canonical-src="https://techstack-generator.vercel.app/ts-icon.svg" style="max-width: 100%;">
-                        </a><br/><b>TypeScript</b>
-                  </td>
-            </tr>
-      </tbody>
-</table>
 <details>
       <summary><h2>🛠 My Tech Stack & Tools</h2></summary>
       <div align="center">
