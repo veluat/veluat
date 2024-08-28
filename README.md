@@ -18,6 +18,9 @@
       <summary><h2>:clipboard: My Open Source Projects</h2></summary>
       <ul>:bookmark: <b>React app:</b>
             <li>
+                  <a href="https://https://node-tree.vercel.app">Node Tree</a>
+            </li>
+            <li>
                   <a href="https://github.com/veluat/dual-counter-app">Dual Counter</a>
             </li>
             <li>
@@ -32,13 +35,13 @@
       </ul>
       <ul>:bookmark: <b>Layouts:</b>
             <li>
+                  <a href="https://github.com/veluat/digital-art-layout">Digital Art & NFT Marketplace</a>
+            </li>
+            <li>
                   <a href="https://github.com/veluat/pizza-ordering-layout">Интернет-магазин по заказу пиццы</a>
             </li>
             <li>
                   <a href="https://github.com/veluat/taxi-services-layout">Taxi Services</a>
-            </li>
-            <li>
-                  <a href="https://github.com/veluat/digital-art-layout">Digital Art & NFT Marketplace</a>
             </li>
       </ul>
 </details>
