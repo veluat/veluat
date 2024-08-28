@@ -18,19 +18,19 @@
       <summary><h2>:clipboard: My Open Source Projects</h2></summary>
       <ul>:bookmark: <b>React app:</b>
             <li>
-                  <a href="https://https://node-tree.vercel.app">Node Tree</a>
+                  <a href="https://github.com/veluat/node-tree-app">Node Tree</a>
             </li>
             <li>
                   <a href="https://github.com/veluat/dual-counter-app">Dual Counter</a>
+            </li>
+            <li>
+                  <a href="https://github.com/veluat/weather-matter-app">Weather Matter</a>
             </li>
             <li>
                   <a href="https://github.com/veluat/task-manager-app">Task Manager</a>
             </li>
             <li>
                   <a href="https://github.com/veluat/social-network-app">Social Network</a>
-            </li>
-            <li>
-                  <a href="https://github.com/veluat/weather-matter-app">Weather Matter</a>
             </li>
       </ul>
       <ul>:bookmark: <b>Layouts:</b>
