@@ -20,6 +20,9 @@
             <li>
                   <a href="https://github.com/veluat/node-tree-app">Node Tree</a>
             </li>
+             <li>
+                  <a href="https://github.com/veluat/zodiac-app">Zodiac Forecast</a>
+            </li>
             <li>
                   <a href="https://github.com/veluat/dual-counter-app">Dual Counter</a>
             </li>
