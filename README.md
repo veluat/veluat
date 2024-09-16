@@ -8,8 +8,6 @@
 * 🌍 I'm based in Minsk, Belarus.
 * 👨‍💻️ Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready
   to embrace challenges to enhance my software development skills.
-* 💼 Check out my resume in English or Russian at <a href="https://veluat.github.io/portfolio-app" target="_blank"><b>my
-  portfolio website</b></a>
 * 📚 I'm learning something new every day.
 * 🤝 Open to New Projects and Collaboration. Let's create something amazing together!
 * 📫 **How to reach me:** j.popova.dev@gmail.com
