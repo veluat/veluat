@@ -55,11 +55,13 @@
       <div align="center">
             <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Badge">
             <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
+            <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge">
             <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge">
             <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
             <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" alt="React Query Badge">
             <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge">
             <img src="https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Badge">
+            <img src="https://img.shields.io/badge/rtk_Query-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Query Badge">
             <img src="https://img.shields.io/badge/Redux%20saga-%23593d88?style=for-the-badge&logo=redux%20saga&logoColor=white" alt="Redux Saga Badge">
             <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form Badge">
             <img src="https://img.shields.io/badge/Formik/Yup-black?style=for-the-badge&amp;logo=formik&amp;logoColor=white" alt="Formik Badge">
@@ -68,9 +70,11 @@
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Badge">
             <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge">
             <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest Badge">
+            <img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" alt="Stylelint Badge">
             <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook Badge">
             <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&amp;logo=prettier&amp;logoColor=F7BA3E" alt="Prettier Badge">
             <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge">
+            <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" alt="Zod Badge">
             <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
             <img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" alt="Lodash Badge">
             <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
