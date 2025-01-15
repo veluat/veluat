@@ -32,7 +32,7 @@
                   <a href="https://github.com/veluat/weather-matter-app">Weather Matter</a>
             </li>
              <li>
-                  <a href="https://github.com/veluat/test-code-editor-app">Test-code-editor</a>
+                  <a href="https://github.com/veluat/test-code-editor-app">Test Code Editor</a>
             </li>
             <li>
                   <a href="https://github.com/veluat/task-manager-app">Task Manager</a>
