@@ -1,5 +1,4 @@
 <div align="center">
-      <img src="./assets/veluat-created-frontend-img.png" alt="img top" width="1016"/>
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=f05237&center=true&multiline=true&repeat=true&random=false&width=435&height=110&lines=Greetings!+%F0%9F%91%8B;I+am+Julia+Popova.;Frontend+Web+Developer." alt="Typing SVG" /></a></h1>
 </div>
 
@@ -87,12 +86,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=swift&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a>
 <br/>
-<div>
-      <a href="https://github.com/veluat/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact&theme=swift" alt="Top Languages">
-      </a>
-      <img src="./assets/veluat-created-gif.gif" alt="gif" width="180">
-</div>
+<a href="https://github.com/veluat/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veluat&layout=compact&theme=swift" alt="Top Languages">
+</a>    
 <br/>
 <div>
       <a href="https://www.codewars.com/users/veluat" target="_blank">
