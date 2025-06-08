@@ -1,11 +1,11 @@
 <div align="center">
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=1000&color=b71f36&center=true&multiline=true&repeat=true&random=false&width=435&height=110&lines=Greetings!+%F0%9F%91%8B;I+am+Julia+Popova.;Frontend+Web+Developer." alt="Typing SVG" /></a></h1>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1700&pause=700&color=ff5f5f&center=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=%2F%7C%5C+%5E._.%5E+%2F%7C%5C;%E2%9C%A6+Greetings!+%E2%9C%A6;I+am+Julia+Popova.;Frontend+Web+Developer." alt="Typing SVG" /></a></h1>
 </div>
 
 ## 💫 About Me
 
 * 🌍 I'm based in Minsk, Belarus.
-* 👨‍💻️ Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready
+* 👩🏻‍💻 Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready
   to embrace challenges to enhance my software development skills.
 * 📚 I'm learning something new every day.
 * 🤝 Open to New Projects and Collaboration. Let's create something amazing together!
@@ -83,7 +83,7 @@
 ## 📊 GitHub Stats
 
 <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=rose&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </a>
 <br/>
 <div>
