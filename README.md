@@ -1,15 +1,13 @@
-<div align="center">
-<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1700&pause=700&color=ff5f5f&center=true&multiline=true&repeat=false&random=false&width=435&height=150&lines=%2F%7C%5C+%5E._.%5E+%2F%7C%5C;%E2%9C%A6+Greetings!+%E2%9C%A6;I+am+Julia+Popova.;Frontend+Web+Developer." alt="Typing SVG" /></a></h1>
-</div>
-
 ## 💫 About Me
+Frontend developer with 3+ years of React, Next.js, TypeScript.
 
-* 🌍 I'm based in Minsk, Belarus.
-* 👩🏻‍💻 Experienced frontend developer, brimming with curiosity and a knack for learning, adapting, and evolving. Ready
-  to embrace challenges to enhance my software development skills.
-* 📚 I'm learning something new every day.
-* 🤝 Open to New Projects and Collaboration. Let's create something amazing together!
-* 📫 **How to reach me:** j.popova.dev@gmail.com
+* Led a Legal Tech project from concept to launch → [advokat-dashko.by](https://advokat-dashko.by) (Lighthouse 95–100)
+* Built an e‑commerce catalog with 10,000+ product configurations, dynamic filters, product builder
+* Created a UI kit with 50+ components, documented in Storybook
+* Set up CI/CD (GitLab + Docker), reduced deployment time by 40%
+* Implementing virtualized lists with TanStack Virtual for large datasets
+  
+📫 j.popova.dev@gmail.com
 
 <details>
       <summary><h2>🛠 My Tech Stack & Tools</h2></summary>
@@ -21,25 +19,20 @@
             <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js Badge">
             <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
             <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" alt="React Query Badge">
+            <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query Badge">
             <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge">
             <img src="https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Badge">
             <img src="https://img.shields.io/badge/rtk_Query-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Query Badge">
             <img src="https://img.shields.io/badge/Redux%20saga-%23593d88?style=for-the-badge&logo=redux%20saga&logoColor=white" alt="Redux Saga Badge">
             <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form Badge">
-            <img src="https://img.shields.io/badge/Formik/Yup-black?style=for-the-badge&amp;logo=formik&amp;logoColor=white" alt="Formik Badge">
             <img src="https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=3068B7" alt="Zod Badge">
-            <img src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" alt="Lodash Badge">
             <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
-            <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge">
             <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger Badge">
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman Badge">
             <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
-            <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery Badge">
             <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&amp;logo=Axios&amp;logoColor=white" alt="Axios Badge">
             <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket Badge">
             <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT Badge">
-            <img src="https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff" alt="Stripe Badge">
-            <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Badge">
             <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack Badge">
             <img src="https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black" alt="esbuild Badge">
             <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn Badge">
@@ -55,17 +48,15 @@
             <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&amp;logo=prettier&amp;logoColor=F7BA3E" alt="Prettier Badge">
             <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge">
             <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
-            <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva Badge">
             <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
             <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
             <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS Badge">
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
             <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components Badge">
             <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI Badge">
             <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge">
             <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn/ui Badge">
-            <img src="https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0" alt="Mantine Badge">
             <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge">
-            <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge">
             <img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design Badge">
             <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Badge">
             <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebStorm Badge">
@@ -86,11 +77,6 @@
 </details>
 
 ## 📊 GitHub Stats
-
-<a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user={veluat}&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</a>
-<br/>
 <div>
       <a href="https://www.codewars.com/users/veluat" target="_blank">
             <img src="https://www.codewars.com/users/veluat/badges/micro" alt="Codewars Badge">
