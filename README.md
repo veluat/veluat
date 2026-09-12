@@ -1,5 +1,5 @@
 ## 💫 About Me
-Frontend developer with 3+ years of React, Next.js, TypeScript.
+Frontend developer with 4+ years of React, Next.js, TypeScript.
 
 * Led a Legal Tech project from concept to launch → [advokat-dashko.by](https://advokat-dashko.by) (Lighthouse 95–100)
 * Built an e‑commerce catalog with 10,000+ product configurations, dynamic filters, product builder
